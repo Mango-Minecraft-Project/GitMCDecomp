@@ -9,8 +9,9 @@ on:
 
  # If you can't post workflow_dispatch event, use this
   schedule:
-    - cron: '0 0/12 * * *'
-
+    - cron: '40 0,9,12,14,15,16,18,21 * * 1-5'
+    - cron: '40 0,6,12,18 * * 0,6'
+    - cron: '40 21 * * 0'
 jobs:
   build:
     runs-on: ubuntu-latest
