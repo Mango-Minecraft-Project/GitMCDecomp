@@ -4,8 +4,12 @@
     "20w14infinite",
     "1.16.5",
     "22w13oneblockatatime",
+    "1.18.2",
+    "1.19.2",
     "23w13a_or_b",
+    "1.20.1",
     "24w14potato",
+    "1.21.1",
     "25w14craftmine"
   ],
   "master": {
@@ -27,15 +31,35 @@
     "base": "1.18.2",
     "versions": ["22w13oneblockatatime"]
   },
+  "1.18.2": {
+    "type": "hang",
+    "base": "1.18.2",
+    "versions": ["1.18.2"]
+  },
+  "1.19.2": {
+    "type": "hang",
+    "base": "1.19.2",
+    "versions": ["1.19.2"]
+  },
   "23w13a_or_b": {
     "type": "hang",
     "base": "23w13a",
     "versions": ["23w13a_or_b"]
   },
+  "1.20.1": {
+    "type": "hang",
+    "base": "1.20.1",
+    "versions": ["1.20.1"]
+  },
   "24w14potato": {
     "type": "hang",
     "base": "24w12a",
     "versions": ["24w14potato"]
+  },
+  "1.21.1": {
+    "type": "hang",
+    "base": "1.21.1",
+    "versions": ["1.21.1"]
   },
   "25w14craftmine": {
     "type": "hang",
