@@ -2,14 +2,9 @@
   "branches": [
     "master",
     "April-Fool/20w14infinite",
-    "Keeps/1.16.5",
     "April-Fool/22w13oneblockatatime",
-    "Keeps/1.18.2",
-    "Keeps/1.19.2",
     "April-Fool/23w13a_or_b",
-    "Keeps/1.20.1",
     "April-Fool/24w14potato",
-    "Keeps/1.21.1",
     "April-Fool/25w14craftmine"
   ],
   "master": {
@@ -21,45 +16,20 @@
     "base": "20w13b",
     "versions": ["20w14infinite"]
   },
-  "Keeps/1.16.5": {
-    "type": "hang",
-    "base": "1.16.4",
-    "versions": ["1.16.5-rc1", "1.16.5"]
-  },
   "April-Fool/22w13oneblockatatime": {
     "type": "hang",
     "base": "1.18.2",
     "versions": ["22w13oneblockatatime"]
-  },
-  "Keeps/1.18.2": {
-    "type": "hang",
-    "base": "1.18.2",
-    "versions": ["1.18.2"]
-  },
-  "Keeps/1.19.2": {
-    "type": "hang",
-    "base": "1.19.2",
-    "versions": ["1.19.2"]
   },
   "April-Fool/23w13a_or_b": {
     "type": "hang",
     "base": "23w13a",
     "versions": ["23w13a_or_b"]
   },
-  "Keeps/1.20.1": {
-    "type": "hang",
-    "base": "1.20.1",
-    "versions": ["1.20.1"]
-  },
   "April-Fool/24w14potato": {
     "type": "hang",
     "base": "24w12a",
     "versions": ["24w14potato"]
-  },
-  "Keeps/1.21.1": {
-    "type": "hang",
-    "base": "1.21.1",
-    "versions": ["1.21.1"]
   },
   "April-Fool/25w14craftmine": {
     "type": "hang",
